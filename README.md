@@ -2,4 +2,4 @@
 </p>
   
 <p align="center">This is a centered paragraph of text.</p>
-This is ${\color{red}\psycho teddy!!!{red text}}$ in a sentence.
+$\texttt{\color{#deb735} -14 n' under iwec/dni}$
