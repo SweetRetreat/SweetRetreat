@@ -2,3 +2,5 @@
 </p>
   
 <p align="center">nymaurae!</p>
+
+$\texttt{\color{#c2c19c}greens}$   $\texttt{\color{#b4b477}𖹭}$   $\texttt{\color{#a19b5a}worm}$ $\texttt{\color{#837c3d}farm}$
