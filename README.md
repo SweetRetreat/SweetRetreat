@@ -2,4 +2,4 @@
 </p>
   
 <p align="center">This is a centered paragraph of text.</p>
-$\texttt{\color{#deb735} -14 n' under iwec/dni}$
+$$$${\color{blue}FUCK}$$$$
